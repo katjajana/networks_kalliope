@@ -1,1 +1,2 @@
-notebooks and files for historical network analysis with data vom Kalliope
+Jupyter notebooks, files and visualizations for historical network analysis with Python with data from the Kalliope Union Katalog. 
+https://kalliope-verbund.info/en/index.html
